@@ -1,7 +1,12 @@
-### Hi there 👋
+### Hi im Matias Mancini 👋
 
-<!--
-**EMME-ESSE/EMME-ESSE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am beginner developer from Uruguay. One of my characteristics is that i am pragmatical so i like the practical things.
+
+Currently studying at Holberton School learning software development skills
+
+Contact: Linkedin:...
+              Mail:...
+         Instagram:...
 
 Here are some ideas to get you started:
 
