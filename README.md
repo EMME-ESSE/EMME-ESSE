@@ -1,6 +1,6 @@
 ### Hi im Matias Mancini 👋
 
-## 💻I am beginner developer from Uruguay :uruguay:. One of my characteristics is that i am pragmatical so i like the practical things.
+## 💻I am beginner developer from Uruguay . One of my characteristics is that i am pragmatical so i like the practical things.
 
 ### 📚Currently studying at Holberton School learning software development skills
 
