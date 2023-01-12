@@ -8,8 +8,9 @@
 [![LinkedIn] 
 :blue_square: Mail:...
 :orange_square: Instagram:...
-[[https://www.linkedin.com/in/matias-mancini-35aa10261/|alt=octocat]]![linkedin](https://user-images.githubusercontent.com/17550413/211961539-56cb7dca-ed12-412c-b65d-4812a6473fa4.png)
+![linkedin](https://user-images.githubusercontent.com/17550413/211962042-9efa5dcc-77e2-47da-9770-f56ce79531e0.jpg)(https://www.linkedin.com/in/matias-mancini-35aa10261/)
 Here are some ideas to get you started:
+
 
 
 - 🔭 I’m currently working on ...
