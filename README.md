@@ -9,7 +9,6 @@
 ### :mortar_board: My Skills
 
 [![My Skills](https://skills.thijs.gg/icons?i=js,html,css,java-dark,c,python-dark&theme=dark)](https://skills.thijs.gg)
-[![My Skills](https://skills.thijs.gg/icons?i=js,html,css,java-light,c,python-light)](https://skills.thijs.gg)
 
 ### ☎️ Contact
 
