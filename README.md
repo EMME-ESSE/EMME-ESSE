@@ -12,7 +12,7 @@
 
 ### ☎️ Contact
 
-[![email](https://user-images.githubusercontent.com/17550413/211963086-46897b76-6536-42bc-bb06-9647bd7ecca1.png)@matimancini
+![icons8-correo](https://user-images.githubusercontent.com/17550413/211980555-56011e76-1338-40c8-bb98-c5fcc13364fc.gif)@matimancini
 
 [![linkedin](https://user-images.githubusercontent.com/17550413/211963098-8cc3503d-a03b-476d-815c-3abd341815c3.png)](https://www.linkedin.com/in/matias-mancini-35aa10261/)
 
