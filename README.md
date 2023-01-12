@@ -1,7 +1,7 @@
 # Hi 👋 
 # im Matias Mancini 📧 matimancini@gmail.com 
 
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EMME-ESSE&show_icons=true&theme=gruvbox)
 ## 💻I am beginner developer from Uruguay :🇺ruguay: . One of my characteristics is that i am pragmatical so i like the practical things.
 
 ### 📚Currently studying at Holberton School learning software development skills
@@ -20,8 +20,5 @@
 
 </br>
   
-<p align="center">  <img align="center" src="https://profile-counter.glitch.me/EMME-ESSE/count.svg" /></p>
+<p align="center" color ="white">  <img align="center" src="https://profile-counter.glitch.me/EMME-ESSE/count.svg" /></p>
 
-![Hit counter](https://smallcounter.com/count.php?c_style=14&id=1626708761)
-
-</div>
