@@ -1,4 +1,5 @@
-# Hi im Matias Mancini 👋
+# Hi 👋 
+# im Matias Mancini 📧 @matimancini 
 
 
 ## 💻I am beginner developer from Uruguay :🇺ruguay: . One of my characteristics is that i am pragmatical so i like the practical things.
@@ -11,8 +12,6 @@
 [![My Skills](https://skills.thijs.gg/icons?js,html,css,java-light,c,python-light&theme=light)](https://skills.thijs.gg)
 
 ### ☎️ Contact
-
-![icons8-correo](https://user-images.githubusercontent.com/17550413/211980555-56011e76-1338-40c8-bb98-c5fcc13364fc.gif)@matimancini
 
 [![linkedin](https://user-images.githubusercontent.com/17550413/211963098-8cc3503d-a03b-476d-815c-3abd341815c3.png)](https://www.linkedin.com/in/matias-mancini-35aa10261/)
 
