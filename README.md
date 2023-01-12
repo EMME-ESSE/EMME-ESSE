@@ -18,8 +18,6 @@ few characteristics about my self is that i am pragmatical and creative.
 
 
 
-## 💻I am beginner developer from Uruguay :🇺ruguay: . .
-
 
 
 ### :mortar_board: My Skills
