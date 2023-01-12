@@ -4,12 +4,13 @@
 
 ### 📚Currently studying at Holberton School learning software development skills
 
-### ☎️ Contact: 
-:green_square: Linkedin:...
+### ☎️ Contact
+[![LinkedIn] 
 :blue_square: Mail:...
 :orange_square: Instagram:...
-
+[[https://www.linkedin.com/in/matias-mancini-35aa10261/|alt=octocat]]![linkedin](https://user-images.githubusercontent.com/17550413/211961539-56cb7dca-ed12-412c-b65d-4812a6473fa4.png)
 Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
