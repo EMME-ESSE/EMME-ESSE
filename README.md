@@ -2,10 +2,20 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=BD0061&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Matias+Mancini;I'm+20+years+old;I+from+Uruguay;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EMME-ESSE&show_icons=true&theme=radical)
+
+
 ## Hello! 
 I am Matias Mancini and i am 20 years old. I´m from Uruguay and actually studing at Holberton School improving my development skills.
 I like to play video games and nerd stuff🤓. I love RKT music and rap so much.
-few characteristics about my self is that i am pragmatical and creative.
+few characteristics about my self are that i am pragmatical and creative.
+
+
+### :mortar_board: My Skills
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EMME-ESSE&layout=compact)](https://github.com/EMME-ESSE)
+
+[![My Skills](https://skills.thijs.gg/icons?i=js,html,css,java,c,python&theme=dark)](https://skills.thijs.gg)
 
 ## Contact
 
@@ -18,11 +28,6 @@ few characteristics about my self is that i am pragmatical and creative.
 
 
 
-
-
-### :mortar_board: My Skills
-
-[![My Skills](https://skills.thijs.gg/icons?i=js,html,css,java,c,python&theme=dark)](https://skills.thijs.gg)
 
 
 
