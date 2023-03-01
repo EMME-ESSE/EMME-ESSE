@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=BD0061&height=120&section=header"/>
 
 <div align="center">
-## Hello! 
+Hello! 
 I am Matias Mancini and i am 20 years old. I´m from Uruguay and actually studying at Holberton School improving my development skills.
 Few thinhs about my self are that i like to play video games and nerd stuff🤓, i am pragmatical and creative.
 
