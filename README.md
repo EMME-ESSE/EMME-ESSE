@@ -2,8 +2,8 @@
 
 <div align="center">
 Hello! 
-I am Matias Mancini a 21 years old enthusiastic developer and I am from Uruguay.<br>
-Few thinhs about my self are that I like to play video games and nerd stuff🤓 and I am pragmatical and creative.
+I am Matias Mancini, a 21-year-old enthusiastic Uruguayan developer.<br>
+A few things about myself are that I like to play video games and enjoy nerd stuff 🤓. I am both pragmatic and creative.
 
 
 
