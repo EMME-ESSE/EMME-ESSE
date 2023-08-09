@@ -2,7 +2,7 @@
 
 <div align="center">
 Hello! 
-I am Matias Mancini and i am 20 years old. I´m from Uruguay and actually studying at Holberton School improving my development skills.
+I am Matias Mancini a 21 years old enthusiastic developer and I am from Uruguay.
 Few thinhs about my self are that i like to play video games and nerd stuff🤓, i am pragmatical and creative.
 
 
