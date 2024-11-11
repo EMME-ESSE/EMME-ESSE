@@ -16,10 +16,6 @@ A few things about myself are that I like to play video games and enjoy nerd stu
 
 
 ## Contact
-
-[![linkedin](https://user-images.githubusercontent.com/17550413/211990777-51512a0e-ccee-4d62-829a-587d0890fcc1.png)](https://www.linkedin.com/in/matias-mancini-35aa10261/)
-[![instagram](https://user-images.githubusercontent.com/17550413/211990766-c6a237da-9ac7-4cf2-9e83-d3dea9a56140.png)](https://www.instagram.com/matias_emme/)
-[![correo](https://user-images.githubusercontent.com/17550413/211990757-d553aab4-4da7-4af4-94ae-3a311d32fd80.png)](mailto:matimancini@gmail.com)
 </div>
 
 
