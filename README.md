@@ -15,8 +15,6 @@ A few things about myself are that I like to play video games and enjoy nerd stu
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EMME-ESSE&theme=radical)
 
 
-## Contact
-</div>
 
 
 
